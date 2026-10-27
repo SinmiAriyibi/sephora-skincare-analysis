@@ -2,8 +2,8 @@
 
 When a product shows 5.0 stars, how much should a shopper (or a merchandiser) trust it? This project uses 791,714 Sephora skincare reviews to find where star ratings mislead, what unhappy customers complain about, and which products deserve more visibility.
 
-**Portfolio page:** https://sinmiariyibi.my.canva.site
-**Interactive dashboard:** https://public.tableau.com/app/profile/sinmi.ariyibi/viz/SkincareProductPerformanceandCustomerSatisfaction/Dashboard1
+   - **Portfolio page:** https://sinmiariyibi.my.canva.site
+   - **Interactive dashboard:** https://public.tableau.com/app/profile/sinmi.ariyibi/viz/SkincareProductPerformanceandCustomerSatisfaction/Dashboard1
 
 ## Questions
 
