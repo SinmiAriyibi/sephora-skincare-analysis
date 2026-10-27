@@ -54,6 +54,13 @@ Everything here is correlational. Ratings differences are measured inside the sa
 
 The window starts in 2018 because `is_recommended` was only collected from then.
 
+## What I'd recommend
+
+1. **Set a minimum review count before featuring a product.** All 61 perfect-5.0 products have 17 reviews or fewer, so a raw average puts thinly reviewed products at the top.
+2. **Judge premium products on satisfaction and perceived value.** The priciest quartile rates only +0.15 stars above the cheapest within the same product type, so price alone doesn't predict a better experience.
+3. **Give hidden gems more visibility.** Of 98 highly rated, low-exposure products, 76 of the 87 testable still rank in the top quartile without free-product reviews. They're good candidates for placement tests.
+4. **Fix efficacy and value complaints first.** "No results" (22.1%) and skin reaction (21.6%) lead 1-2 star reviews, and value for money is 20.2x likelier to show up there than in high-star reviews.
+
 ## Limitations
 
 - One retailer, reviews from 2018 onward, so this may not reflect the wider market.
